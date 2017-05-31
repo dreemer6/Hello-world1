@@ -1,2 +1,2 @@
-# Hello-world1
-just a description
+# Hello-world
+I am a budding php web developer itching to learn to use laravel framework.
